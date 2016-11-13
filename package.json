@@ -30,7 +30,7 @@
     "type": "git",
     "url": "https://github.com/logentries/le_node.git"
   },
-  "main": "src/logger.js",
+  "main": "lib/logger.js",
   "scripts": {
     "build": "gobble build lib --force",
     "lint": "eslint src",
